@@ -1,0 +1,15 @@
+E:\CODE\SALE\功能\EagleEye\EagleEye\bin\Debug\EagleEye.exe.config
+E:\CODE\SALE\功能\EagleEye\EagleEye\bin\Debug\EagleEye.exe
+E:\CODE\SALE\功能\EagleEye\EagleEye\bin\Debug\EagleEye.pdb
+E:\CODE\SALE\功能\EagleEye\EagleEye\obj\Debug\ResolveAssemblyReference.cache
+E:\CODE\SALE\功能\EagleEye\EagleEye\obj\Debug\EagleEye.Properties.Resources.resources
+E:\CODE\SALE\功能\EagleEye\EagleEye\obj\Debug\EagleEye.csproj.GenerateResource.Cache
+E:\CODE\SALE\功能\EagleEye\EagleEye\obj\Debug\EagleEye.exe
+E:\CODE\SALE\功能\EagleEye\EagleEye\obj\Debug\EagleEye.pdb
+E:\CODE\SALE\功能\EagleEye\Realease\EagleEye.exe.config
+E:\CODE\SALE\功能\EagleEye\Realease\EagleEye.exe
+E:\CODE\SALE\功能\EagleEye\Realease\EagleEye.pdb
+E:\CODE\SALE\功能\EagleEye\EagleEye\obj\Debug\Devgis.EagleEye.MainMap.resources
+E:\WORK\2014\EagleEye\Realease\EagleEye.exe.config
+E:\WORK\2014\EagleEye\EagleEye\obj\Debug\EagleEye.exe
+E:\WORK\2014\EagleEye\EagleEye\obj\Debug\EagleEye.pdb

@@ -1,0 +1,17 @@
+E:\WORK\2014\EagleEye\Realease\MapApp.exe.config
+E:\WORK\2014\EagleEye\EagleEye\obj\Debug\ResolveAssemblyReference.cache
+E:\WORK\2014\EagleEye\EagleEye\obj\Debug\Eternal.MapApp.MainMap.resources
+E:\WORK\2014\EagleEye\EagleEye\obj\Debug\Eternal.MapApp.Properties.Resources.resources
+E:\WORK\2014\EagleEye\EagleEye\obj\Debug\MapApp.csproj.GenerateResource.Cache
+E:\WORK\2014\EagleEye\Realease\MapApp.exe
+E:\WORK\2014\EagleEye\Realease\MapApp.pdb
+E:\WORK\2014\EagleEye\EagleEye\obj\Debug\MapApp.exe
+E:\WORK\2014\EagleEye\EagleEye\obj\Debug\MapApp.pdb
+E:\WORK\2014\EagleEye\EagleEye\obj\Debug\Eternal.MapApp.SearcgWorksForm.resources
+E:\WORK\2014\EagleEye\MapApp\obj\Debug\MapApp.exe
+E:\WORK\2014\EagleEye\MapApp\obj\Debug\MapApp.pdb
+E:\WORK\2014\EagleEye\MapApp\obj\Debug\ResolveAssemblyReference.cache
+E:\WORK\2014\EagleEye\MapApp\obj\Debug\Eternal.MapApp.MainMap.resources
+E:\WORK\2014\EagleEye\MapApp\obj\Debug\Eternal.MapApp.Properties.Resources.resources
+E:\WORK\2014\EagleEye\MapApp\obj\Debug\Eternal.MapApp.SearcgWorksForm.resources
+E:\WORK\2014\EagleEye\MapApp\obj\Debug\MapApp.csproj.GenerateResource.Cache
